@@ -1,3 +1,19 @@
 25-Mar-23 00:55:30 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
 25-Mar-23 00:55:30 - [33mPress CTRL+C to quit[0m
+25-Mar-23 01:35:59 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+25-Mar-23 01:35:59 - [33mPress CTRL+C to quit[0m
+25-Mar-23 01:37:02 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+25-Mar-23 01:37:02 - [33mPress CTRL+C to quit[0m
+25-Mar-23 01:37:02 -  * Restarting with stat
+25-Mar-23 01:37:02 -  * Debugger is active!
+25-Mar-23 01:37:02 -  * Debugger PIN: 824-077-261
+25-Mar-23 01:37:11 - 127.0.0.1 - - [25/Mar/2023 01:37:11] "GET / HTTP/1.1" 200 -
+25-Mar-23 01:37:11 - 127.0.0.1 - - [25/Mar/2023 01:37:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 01:37:42 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : jheff asked: how to make fireworks
+25-Mar-23 01:37:44 - 127.0.0.1 - - [25/Mar/2023 01:37:44] "POST / HTTP/1.1" 200 -
+25-Mar-23 01:37:44 - 127.0.0.1 - - [25/Mar/2023 01:37:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 01:37:56 - 127.0.0.1 - - [25/Mar/2023 01:37:56] "GET / HTTP/1.1" 200 -
+25-Mar-23 01:37:56 - 127.0.0.1 - - [25/Mar/2023 01:37:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

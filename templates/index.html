@@ -6,6 +6,11 @@
     <title>ask.here</title>
     <link rel="stylesheet" href="/static/style.css">
   
+    <style>
+        .no-resize {
+            resize: none;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
@@ -26,7 +31,7 @@
             <br>
             <label for="prompt"></label>
             <br>
-            <textarea id="prompt" name="prompt" placeholder="<Type your question here>" required></textarea>
+            <textarea id="prompt" name="prompt" class="no-resize" placeholder="<Type your question here>" required></textarea>
             <br>
             <button type="submit">Submit</button>
         </form>
