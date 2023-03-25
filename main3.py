@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, session
 from flask_session import Session
 import openai
 import uuid
-from creds import api_key2
+from creds import api_key2 #just replace this with your own credentials
 
 logging.basicConfig(
     filename='app.log',
@@ -30,17 +30,23 @@ def index():
 def send_chatquery():
     prompt = request.form.get('prompt')
     name = request.form.get('name')
-    logging.info(f"{session['user_id']} : {name} asked: {prompt}")
-    openai.api_key = api_key2
-    model = "text-davinci-002"
-    response = openai.Completion.create(
-        engine=model,
-        prompt=prompt,
-        max_tokens=900,
-        n=1,
-        stop=None,
-        temperature=0.7,
-    )
+    logging.info(f"{session['user_id']} : asked: {prompt}")
+    openai.api_key = api_key2 #your api from openai
+    # model = "text-davinci-002"
+    model2 = "text-curie-001"
+    try:
+        response = openai.Completion.create(
+            engine=model2,
+            prompt=prompt,
+            max_tokens=900,
+            n=1,
+            stop=None,
+            temperature=0.7,
+        )
+    except Exception as e:
+        logging.error(f"{session['user_id']} : An error occurred: {str(e)}")
+        return "An error occurred while processing your request.", 500
+
     return render_template(
         "index.html",
         name=name,
@@ -49,6 +55,5 @@ def send_chatquery():
     )
 
 if __name__ == "__main__":
-##    app.run(host='0.0.0.0', port=8080)
-    app.run(debug=True)
-##    app.run()
+    # app.run(debug=True)
+    app.run()

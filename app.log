@@ -17,3 +17,89 @@
 25-Mar-23 01:37:44 - 127.0.0.1 - - [25/Mar/2023 01:37:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
 25-Mar-23 01:37:56 - 127.0.0.1 - - [25/Mar/2023 01:37:56] "GET / HTTP/1.1" 200 -
 25-Mar-23 01:37:56 - 127.0.0.1 - - [25/Mar/2023 01:37:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:22:29 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+25-Mar-23 09:22:29 - [33mPress CTRL+C to quit[0m
+25-Mar-23 09:22:29 -  * Restarting with stat
+25-Mar-23 09:22:29 -  * Debugger is active!
+25-Mar-23 09:22:29 -  * Debugger PIN: 824-077-261
+25-Mar-23 09:22:38 - 127.0.0.1 - - [25/Mar/2023 09:22:38] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:22:38 - 127.0.0.1 - - [25/Mar/2023 09:22:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:22:53 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : jheff123 asked: usd to php today
+25-Mar-23 09:22:54 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-ZvIhc***************************************rOAh. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+25-Mar-23 09:22:54 - 127.0.0.1 - - [25/Mar/2023 09:22:54] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-Mar-23 09:22:54 - 127.0.0.1 - - [25/Mar/2023 09:22:54] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:22:54 - 127.0.0.1 - - [25/Mar/2023 09:22:54] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+25-Mar-23 09:22:54 - 127.0.0.1 - - [25/Mar/2023 09:22:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+25-Mar-23 09:22:54 - 127.0.0.1 - - [25/Mar/2023 09:22:54] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:03 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : jheff123 asked: usd to php today
+25-Mar-23 09:25:04 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-ZvIhc***************************************rOAh. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+25-Mar-23 09:25:04 - 127.0.0.1 - - [25/Mar/2023 09:25:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-Mar-23 09:25:04 - 127.0.0.1 - - [25/Mar/2023 09:25:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:04 - 127.0.0.1 - - [25/Mar/2023 09:25:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:04 - 127.0.0.1 - - [25/Mar/2023 09:25:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:04 - 127.0.0.1 - - [25/Mar/2023 09:25:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:08 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : jheff123 asked: usd to php today
+25-Mar-23 09:25:08 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-ZvIhc***************************************rOAh. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+25-Mar-23 09:25:08 - 127.0.0.1 - - [25/Mar/2023 09:25:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-Mar-23 09:25:08 - 127.0.0.1 - - [25/Mar/2023 09:25:08] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:08 - 127.0.0.1 - - [25/Mar/2023 09:25:08] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:08 - 127.0.0.1 - - [25/Mar/2023 09:25:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:08 - 127.0.0.1 - - [25/Mar/2023 09:25:08] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+25-Mar-23 09:25:29 -  * Detected change in 'C:\\Users\\ecejg\\projects\\ask-anything\\creds.py', reloading
+25-Mar-23 09:25:29 -  * Restarting with stat
+25-Mar-23 09:25:30 -  * Debugger is active!
+25-Mar-23 09:25:30 -  * Debugger PIN: 824-077-261
+25-Mar-23 09:25:52 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+25-Mar-23 09:25:52 - [33mPress CTRL+C to quit[0m
+25-Mar-23 09:25:52 -  * Restarting with stat
+25-Mar-23 09:25:52 -  * Debugger is active!
+25-Mar-23 09:25:52 -  * Debugger PIN: 824-077-261
+25-Mar-23 09:26:02 - 127.0.0.1 - - [25/Mar/2023 09:26:02] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:26:02 - 127.0.0.1 - - [25/Mar/2023 09:26:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:26:15 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : jag asked: usd to php today
+25-Mar-23 09:26:28 - 127.0.0.1 - - [25/Mar/2023 09:26:28] "POST / HTTP/1.1" 200 -
+25-Mar-23 09:26:28 - 127.0.0.1 - - [25/Mar/2023 09:26:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:26:47 - 127.0.0.1 - - [25/Mar/2023 09:26:47] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:26:47 - 127.0.0.1 - - [25/Mar/2023 09:26:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:26:58 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : po asked: how much is usd to php today
+25-Mar-23 09:26:59 - 127.0.0.1 - - [25/Mar/2023 09:26:59] "POST / HTTP/1.1" 200 -
+25-Mar-23 09:26:59 - 127.0.0.1 - - [25/Mar/2023 09:26:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:27:29 - 127.0.0.1 - - [25/Mar/2023 09:27:29] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:27:29 - 127.0.0.1 - - [25/Mar/2023 09:27:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:40:53 -  * Detected change in 'C:\\Users\\ecejg\\projects\\ask-anything\\creds.py', reloading
+25-Mar-23 09:40:53 -  * Restarting with stat
+25-Mar-23 09:48:07 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+25-Mar-23 09:48:07 - [33mPress CTRL+C to quit[0m
+25-Mar-23 09:48:07 -  * Restarting with stat
+25-Mar-23 09:48:07 -  * Debugger is active!
+25-Mar-23 09:48:07 -  * Debugger PIN: 824-077-261
+25-Mar-23 09:48:15 - 127.0.0.1 - - [25/Mar/2023 09:48:15] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:48:16 - 127.0.0.1 - - [25/Mar/2023 09:48:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:48:30 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : jheff123 asked: how much is php to usd
+25-Mar-23 09:48:31 - 127.0.0.1 - - [25/Mar/2023 09:48:31] "POST / HTTP/1.1" 200 -
+25-Mar-23 09:48:31 - 127.0.0.1 - - [25/Mar/2023 09:48:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:48:38 - 127.0.0.1 - - [25/Mar/2023 09:48:38] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:48:38 - 127.0.0.1 - - [25/Mar/2023 09:48:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:49:00 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : 4654 asked: test it out
+25-Mar-23 09:49:00 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E3B2385D30>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-curie-001/completions
+25-Mar-23 09:49:00 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E3B2385DC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-curie-001/completions
+25-Mar-23 09:49:00 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : An error occurred: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/engines/text-curie-001/completions (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E3B23855B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+25-Mar-23 09:49:00 - 127.0.0.1 - - [25/Mar/2023 09:49:00] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-Mar-23 09:49:26 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : 4654 asked: test it out
+25-Mar-23 09:49:27 - 127.0.0.1 - - [25/Mar/2023 09:49:27] "POST / HTTP/1.1" 200 -
+25-Mar-23 09:49:28 - 127.0.0.1 - - [25/Mar/2023 09:49:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 09:57:07 - 127.0.0.1 - - [25/Mar/2023 09:57:07] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:58:30 - 127.0.0.1 - - [25/Mar/2023 09:58:30] "GET / HTTP/1.1" 200 -
+25-Mar-23 09:58:30 - 127.0.0.1 - - [25/Mar/2023 09:58:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:00:37 - 127.0.0.1 - - [25/Mar/2023 10:00:37] "GET / HTTP/1.1" 200 -
+25-Mar-23 10:00:37 - 127.0.0.1 - - [25/Mar/2023 10:00:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:00:40 - 8e06f9a8-589d-466d-8b94-85d47df569d3 :  asked: test
+25-Mar-23 10:00:49 - 127.0.0.1 - - [25/Mar/2023 10:00:49] "POST / HTTP/1.1" 200 -
+25-Mar-23 10:00:49 - 127.0.0.1 - - [25/Mar/2023 10:00:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:00:52 - 127.0.0.1 - - [25/Mar/2023 10:00:52] "GET / HTTP/1.1" 200 -
+25-Mar-23 10:00:52 - 127.0.0.1 - - [25/Mar/2023 10:00:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:14:50 -  * Detected change in 'C:\\Users\\ecejg\\projects\\ask-anything\\main3.py', reloading
+25-Mar-23 10:14:50 -  * Restarting with stat
