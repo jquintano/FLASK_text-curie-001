@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ask.here</title>
     <link rel="stylesheet" href="/static/style.css">
-  
+
     <style>
         .no-resize {
             resize: none;
@@ -27,20 +27,20 @@
         {% else %}
             <form method="post" action="/" style="text-align: center" onsubmit="submitForm(event)">
                 <label for="name"></label>
-                <input type="text" id="name" name="name" placeholder="<Your name>" required>
+                <!--<input type="text" id="name" name="name" placeholder="<Your name>" required>-->
                 <br>
                 <label for="prompt"></label>
                 <br>
-                <textarea id="prompt" name="prompt" class="no-resize" placeholder="<Type your question here>" required></textarea>
+                <textarea id="prompt" name="prompt" class="no-resize" placeholder="<Type your query here>" required></textarea>
                 <br>
                 <button type="submit">Submit</button>
             </form>
         {% endif %}
         <div class="powered-by" style="text-align: center">
-            <small>powered by: ChatGPT</small>
+            <small>powered by: text-curie-001</small>
         </div>
     </div>
-    
+
     <script>
         const form = document.querySelector('form');
         form.addEventListener('keydown', (event) => {

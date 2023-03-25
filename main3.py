@@ -3,7 +3,7 @@ from flask import Flask, render_template, request, session
 from flask_session import Session
 import openai
 import uuid
-from creds import api_key2 #just replace this with your own credentials
+from creds import api_key2
 
 logging.basicConfig(
     filename='app.log',
@@ -31,7 +31,7 @@ def send_chatquery():
     prompt = request.form.get('prompt')
     name = request.form.get('name')
     logging.info(f"{session['user_id']} : asked: {prompt}")
-    openai.api_key = api_key2 #your api from openai
+    openai.api_key = api_key2
     # model = "text-davinci-002"
     model2 = "text-curie-001"
     try:

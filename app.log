@@ -103,3 +103,31 @@
 25-Mar-23 10:00:52 - 127.0.0.1 - - [25/Mar/2023 10:00:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
 25-Mar-23 10:14:50 -  * Detected change in 'C:\\Users\\ecejg\\projects\\ask-anything\\main3.py', reloading
 25-Mar-23 10:14:50 -  * Restarting with stat
+25-Mar-23 10:34:53 - 127.0.0.1 - - [25/Mar/2023 10:34:53] "GET / HTTP/1.1" 200 -
+25-Mar-23 10:34:53 - 127.0.0.1 - - [25/Mar/2023 10:34:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:35:13 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+25-Mar-23 10:35:13 - [33mPress CTRL+C to quit[0m
+25-Mar-23 10:35:19 - 127.0.0.1 - - [25/Mar/2023 10:35:19] "GET / HTTP/1.1" 200 -
+25-Mar-23 10:35:19 - 127.0.0.1 - - [25/Mar/2023 10:35:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:35:25 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : asked: whats usd to php today
+25-Mar-23 10:35:26 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-KJN1O****************************************FLrq. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+25-Mar-23 10:35:26 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : An error occurred: Incorrect API key provided: sk-KJN1O****************************************FLrq. You can find your API key at https://platform.openai.com/account/api-keys.
+25-Mar-23 10:35:26 - 127.0.0.1 - - [25/Mar/2023 10:35:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+25-Mar-23 10:36:35 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+25-Mar-23 10:36:35 - [33mPress CTRL+C to quit[0m
+25-Mar-23 10:36:35 -  * Restarting with stat
+25-Mar-23 10:36:35 -  * Debugger is active!
+25-Mar-23 10:36:35 -  * Debugger PIN: 824-077-261
+25-Mar-23 10:36:38 - 127.0.0.1 - - [25/Mar/2023 10:36:38] "GET / HTTP/1.1" 200 -
+25-Mar-23 10:36:38 - 127.0.0.1 - - [25/Mar/2023 10:36:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:36:59 - 8e06f9a8-589d-466d-8b94-85d47df569d3 : asked: whats usd to php today
+25-Mar-23 10:37:00 - 127.0.0.1 - - [25/Mar/2023 10:37:00] "POST / HTTP/1.1" 200 -
+25-Mar-23 10:37:00 - 127.0.0.1 - - [25/Mar/2023 10:37:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:37:15 - 127.0.0.1 - - [25/Mar/2023 10:37:15] "GET / HTTP/1.1" 200 -
+25-Mar-23 10:37:15 - 127.0.0.1 - - [25/Mar/2023 10:37:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+25-Mar-23 10:38:29 -  * Detected change in 'C:\\Users\\ecejg\\projects\\ask-anything\\main3.py', reloading
+25-Mar-23 10:38:29 -  * Restarting with stat
+25-Mar-23 10:39:05 - 127.0.0.1 - - [25/Mar/2023 10:39:05] "GET / HTTP/1.1" 200 -
+25-Mar-23 10:39:05 - 127.0.0.1 - - [25/Mar/2023 10:39:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
